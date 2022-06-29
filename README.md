@@ -3,7 +3,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+I am a Python Developer <img src="./icons/funnygifsbox.com-2.gif" width="50"> from Moscow.
 
 - :books: I’m currently studying Python Development in Yandex Practicum.
 
@@ -13,7 +13,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :mailbox: How to reach me: 
 
-[<img src="./icons/Yandex_Mail_icon.svg.png" width="32" height="32">](mailto:morgan.l.v@ya.ru)
+<img src="./icons/funnygifsbox.com-1.gif" width="80"> [<img src="./icons/Yandex_Mail_icon.svg.png" width="40" height="40">](mailto:morgan.l.v@ya.ru)
 
 
 ### :hammer_and_wrench: Languages and Tools :
