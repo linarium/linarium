@@ -1,9 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
-  <img src="https://github.com/linarium/icons/funnygifsbox.com-3.gif" width="100"/> 
-  <h1>
-  Hi there 👋
-  </h1>
+  <img src="./icons/funnygifsbox.com-3.gif" width="220"/> 
 </div>
 
 ### :woman_technologist: About Me :
@@ -15,9 +11,10 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :coffee: In my free time, I draw, play video games, go to gym and read tech articles.
 
-- :mailbox: How to reach me: [![E-mail](https://github.com/linarium/icons/giphy-5.gif)](mailto:morgan.l.v@ya.ru)
+- :mailbox: How to reach me: 
+
+[<img src="./icons/Yandex_Mail_icon.svg.png" width="32" height="32">](mailto:morgan.l.v@ya.ru)
 
 
 ### :hammer_and_wrench: Languages and Tools :
 **Python, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, HTML, CSS, git, pytest, unittest, venv, API, json, Linux, nginx, etc.**
-
