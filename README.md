@@ -13,9 +13,8 @@ I am a Python Developer <img src="./icons/funnygifsbox.com-2.gif" width="50"> fr
 
 - :mailbox: How to reach me: 
 
-<img src="./icons/funnygifsbox.com-1.gif" width="70"> [<img src="./icons/Yandex_Mail_icon.svg.png" width="50" >](mailto:morgan.l.v@ya.ru)
-[<img src="./icons/telegram.svg" width="50">](https://t.me/linariunn)
-
+    [<img src="./icons/Yandex_Mail_icon.svg.png" width="50" >](mailto:morgan.l.v@ya.ru)
+    [<img src="./icons/telegram.svg" width="50">](https://t.me/linariunn)
 
 ### :hammer_and_wrench: Languages and Tools :
 
